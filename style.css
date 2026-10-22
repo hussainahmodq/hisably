@@ -11,6 +11,7 @@ a:focus-visible,button:focus-visible,summary:focus-visible{outline:3px solid var
 header{padding:18px 0}
 header .wrap{display:flex;align-items:center;justify-content:space-between}
 .brand{display:flex;align-items:center;gap:10px;font-weight:700;font-size:1.15rem;color:var(--ink);text-decoration:none}
+.brand-logo{width:40px;height:40px;object-fit:contain;flex:0 0 auto}
 .lang{min-height:44px;padding:0 16px;border:1px solid var(--line);background:transparent;color:var(--ink);border-radius:999px;font:inherit;font-size:.95rem;cursor:pointer}
 .hero{padding:56px 0 48px}
 h1{font-size:clamp(2.1rem,7vw,3.5rem);line-height:1.15;letter-spacing:-.02em;margin:0 0 16px;max-width:15ch}
