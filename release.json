@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0-test.1",
-  "downloadUrl": "https://drive.google.com/uc?export=download&id=1o0WEwkvHK0OXfQrS2AG4p1SCNPql6eDE",
-  "size": "",
+  "version": "1.0.0",
+  "downloadUrl": "https://drive.google.com/uc?export=download&id=1zB3mMvSiCGMmOx8-0NgTEPqkwtKN9bGw",
+  "size": "8.2 MB",
   "sha256": "",
-  "releaseNotes": "Debug APK for testing. Please test before public release.",
-  "minimumAndroid": "",
+  "releaseNotes": "First release of Hisably. Download and enjoy simple, clear money tracking.",
+  "minimumAndroid": "7.0",
   "releaseDate": "2026-10-23"
 }
